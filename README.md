@@ -12,15 +12,12 @@ Skills: HTML / CSS / JS / SCSS / TS / Angular / Bootstrap / Material / Design Sy
 - 🤔 I’m looking for help with Angular 
 - 💬 Ask me about CSS 
 - ⚡ Fun fact: I was a US Sailor for 10 years 
-- 📫 How to reach me: ... [Email](mailto:zacharyprice@users.noreply.github.com)
+- 📫 Reach out via [Email](mailto:zacharyprice@users.noreply.github.com)
 
-[Github](https://github.com/zacharyprice)  [LinkedIn](https://www.linkedin.com/in/zachary-price/)  [Codepen](https://codepen.io/zachary_price)  [Website](https://zachary-price.com)  
+<center>[Github](https://github.com/zacharyprice) | [LinkedIn](https://www.linkedin.com/in/zachary-price/) | [Codepen](https://codepen.io/zachary_price) | [Website](https://zachary-price.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/zacharyprice)
 
-
 ✌Everything should be made as simple as possible, but not simpler.✌ Albert Einstein
-
-<p><a href="www.linked..com/in/zacharyprice">LinkedIn</a>
