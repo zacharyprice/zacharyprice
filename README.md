@@ -35,6 +35,58 @@
 > ✌Everything should be made as simple as possible, but not simpler.✌
 > Albert Einstein
 
+#### Favorite Codepens
+<table>
+    <tr>
+        <th>Pen (link)</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/ZwjgBp">CSS to Death 2 - SVG Has a Turn</a></td>
+        <td>This is the updated SVG version of my original <a href="https://codepen.io/zachary_price/pen/yNqPWJ">CSS to Death</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/ZEEZYOQ">Energy Meter Display</a></td>
+        <td>Just wanted to give off animated energy vibes</td>
+    </tr>
+    <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/obmwaQ">Neonderthal</a></td>
+        <td>I wanted to try my luck at creating a realistic neon sign look with CSS only</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/aqXNme">Custom font-swap for the @ symbol</a></td>
+        <td>Here I wanted to build a scalable way to change the font anytime the @ symbol is used on a page</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/oLqrzb">Responsively Responsive Responsiveness</a></td>
+        <td>I built this to try and have something be as responsive as possible while also in cool grayscale color scheme</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/vYxLRov">CSS Banner Animation</a></td>
+        <td>This was an actual request that made it to production</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/NLWjqx">React Multi-select Table</a></td>
+        <td>This was built to showcase a responsive menu without the need for Media Queries (and since I wanted to try React I threw that in too)</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/yEVNYQ">CSS-only Bigfoot logo</a></td>
+        <td>Just because I could (and... it's Bigfoot!</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/oVzxNm">HSLa Color Programming with SASS</a></td>
+        <td>Here I was playing around with the customizablity of HSLa and SASS and creating functions to generate all shades/tints/etc. based on a root color</td>
+    </tr>
+        <tr>
+        <td><a href="https://codepen.io/zachary_price/pen/VNBVye">Target Sibling Hover Effects</a></td>
+        <td>The clever thing here is how the siblings of the item being interacted with also get styles applied to them</td>
+</table>
+
+- The following are just some of my favorite loading animations that I've created:
+    - [Pure CSS Loader](https://codepen.io/zachary_price/pen/QQOKJx)
+    - [CSS Spring Loader](https://codepen.io/zachary_price/pen/XWdyZqL)
+    - [CSS Loading Animation](https://codepen.io/zachary_price/pen/GRjQEmo)
+
 #### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
