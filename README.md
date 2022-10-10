@@ -1,5 +1,5 @@
-### Hi there 👋, Zachary Price
-#### Design & Development
+### Hi there 👋, My name is Zachary Price
+
 ![Design & Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 User-centered Web Designer and Frontend Developer with a passion for Design Systems.
