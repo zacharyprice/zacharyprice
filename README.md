@@ -14,7 +14,7 @@ Skills: HTML / CSS / JS / SCSS / TS / Angular / Bootstrap / Material / Design Sy
 - ⚡ Fun fact: I was a US Sailor for 10 years 
 - 📫 How to reach me: ... [Email](mailto:zacharyprice@users.noreply.github.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zacharyprice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zachary-price/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/zachary_price)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zachary-price.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' style="color: red;" height='40'>](https://github.com/zacharyprice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zachary-price/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/zachary_price)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zachary-price.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
