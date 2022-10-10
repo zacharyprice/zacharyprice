@@ -2,7 +2,7 @@
 
 #### About Me
 
-Hi there 👋! My name is Zachary Price and I'm a user-centered Web Designer and Frontend Developer with a passion for Design Systems.
+👋 Hi there! My name is Zachary Price and I'm a user-centered Web Designer and Frontend Developer with a passion for Design Systems.
 
 - 🔭 I’m currently working on my own design system. 
 - 🌱 I’m currently learning Angular 
