@@ -1,6 +1,6 @@
 ![Zachary Price Design & Development](https://user-images.githubusercontent.com/870971/194938740-1a6fa24f-10ab-4ad6-aa87-1c6edfe37cf7.png)
 
-## Hi there! 👋
+## Hello! 👋
 ### My name is Zachary Price and I'm a user-centered Web Designer and Frontend Developer with a passion for Design Systems.
 
 #### Fun Facts
