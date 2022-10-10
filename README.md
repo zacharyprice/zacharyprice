@@ -1,4 +1,4 @@
-![Zachary Price Design & Development](https://user-images.githubusercontent.com/870971/194930149-d3e1d0a8-e740-4667-82cd-99eb20c32910.jpeg)
+![Zachary Price Design & Development](https://user-images.githubusercontent.com/870971/194938740-1a6fa24f-10ab-4ad6-aa87-1c6edfe37cf7.png)
 
 #### About Me
 
