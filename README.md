@@ -1,8 +1,5 @@
 ### Hello Dev Community 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... looking for fulltime employment!
 - 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... advanced HTML & CSS projects
