@@ -27,7 +27,7 @@ Hi there 👋! My name is Zachary Price and I'm a user-centered Web Designer and
 </p>
 
 #### Links
-<p align="center">
+<p align="left">
   <a href="https://github.com/zacharyprice">Github</a> | <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
 </p>
 
