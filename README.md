@@ -12,7 +12,7 @@ Hi there 👋! My name is Zachary Price and I'm a user-centered Web Designer and
 - ⚡ Fun fact: I was a US Sailor for 10 years 
 - 📫 Reach out via [Email](mailto:zacharyprice@users.noreply.github.com)
 
-#### Skills:
+#### Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40" />
