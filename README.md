@@ -14,7 +14,7 @@ Skills: HTML / CSS / JS / SCSS / TS / Angular / Bootstrap / Material / Design Sy
 - ⚡ Fun fact: I was a US Sailor for 10 years 
 - 📫 Reach out via [Email](mailto:zacharyprice@users.noreply.github.com)
 
-<center>[Github](https://github.com/zacharyprice) | [LinkedIn](https://www.linkedin.com/in/zachary-price/) | [Codepen](https://codepen.io/zachary_price) | [Website](https://zachary-price.com)  
+<center>[Github](https://github.com/zacharyprice) | [LinkedIn](https://www.linkedin.com/in/zachary-price/) | [Codepen](https://codepen.io/zachary_price) | [Website](https://zachary-price.com)</center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
