@@ -1,9 +1,8 @@
-### Hi there 👋,
-### My name is Zachary Price
-
 ![Zachary Price Design & Development](https://user-images.githubusercontent.com/870971/194930149-d3e1d0a8-e740-4667-82cd-99eb20c32910.jpeg)
 
-User-centered Web Designer and Frontend Developer with a passion for Design Systems.
+### Hi there 👋
+
+My name is Zachary Price and I'm a user-centered Web Designer and Frontend Developer with a passion for Design Systems.
 
 Skills: HTML / CSS / JS / SCSS / TS / Angular / Bootstrap / Material / Design Systems / Git / Figma / Sketch / Adobe CS
 
