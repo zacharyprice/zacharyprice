@@ -1,4 +1,4 @@
-### Hello Dev Community 👋
+### Hello 👋
 
 - 🔭 I’m currently working on ... looking for fulltime employment!
 - 🌱 I’m currently learning ... Angular
