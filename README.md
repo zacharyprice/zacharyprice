@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... looking for fulltime employment!
 - 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... advanced HTML & CSS projects
+- 👯 I’m looking to collaborate on ... Design Systems
 - 🤔 I’m looking for help with ... Angular
 - 💬 Ask me about ... movies
 - 📫 How to reach me: ... [email](mailto:zacharyprice@users.noreply.github.com)
