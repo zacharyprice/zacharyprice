@@ -39,9 +39,3 @@
 #### Food for thought
 > ✌Everything should be made as simple as possible, but not simpler.✌
 > Albert Einstein
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="Animated Banner" src="https://codepen.io/zachary_price/embed/vYxLRov?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/zachary_price/pen/vYxLRov">
-  Animated Banner</a> by Zachary Price (<a href="https://codepen.io/zachary_price">@zachary_price</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
