@@ -26,7 +26,9 @@ My name is Zachary Price and I'm a user-centered Web Designer and Frontend Devel
 - ⚡ Fun fact: I was a US Sailor for 10 years 
 - 📫 Reach out via [Email](mailto:zacharyprice@users.noreply.github.com)
 
-<p align="center">[Github](https://github.com/zacharyprice) | [LinkedIn](https://www.linkedin.com/in/zachary-price/) | [Codepen](https://codepen.io/zachary_price) | [Website](https://zachary-price.com)</p>
+<p align="center">
+  <a href="https://github.com/zacharyprice">Github</a> | <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
