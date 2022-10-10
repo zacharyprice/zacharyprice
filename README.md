@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... [Email](mailto:zacharyprice@users.noreply.github.com)
 - ⚡ Fun fact: ... I was a US Sailor for 10 years.
 - ✌ Favorite Quote ... “Everything should be made as simple as possible, but not simpler.“ Albert Einstein
+
+<p><a href="www.linked..com/in/zacharyprice">LinkedIn</a>
