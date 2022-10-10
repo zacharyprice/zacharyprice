@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... movies
 - 📫 How to reach me: ... [email](mailto:zacharyprice@users.noreply.github.com)
 - ⚡ Fun fact: ... I was a US Sailor for 10 years.
-- “” Favorite Quote ... Everything should be made as simple as possible, but not simpler. - Albert Einstein
+- “ Favorite Quote ... “Everything should be made as simple as possible, but not simpler.” Albert Einstein
 -->
