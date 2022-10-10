@@ -31,11 +31,11 @@
   <a href="https://github.com/zacharyprice">Github</a> | <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
 </p>
 
+#### Food for thought
+> ✌Everything should be made as simple as possible, but not simpler.✌
+> Albert Einstein
+
 #### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/zacharyprice)
-
-#### Food for thought
-> ✌Everything should be made as simple as possible, but not simpler.✌
-> Albert Einstein
