@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my own design system. 
 - 🌱 I’m currently learning Angular.
 - ⚡ Fun fact: I was a US Sailor for 10 years.
-- 📫 Reach out via [Email](mailto:zacharyprice@me.com)
+- 📫 Reach out via [Email](mailto:hello@zachary-price.com)
 
 #### Skills
 <p align="left">
