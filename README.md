@@ -85,8 +85,5 @@
     - [CSS Loading Animation](https://codepen.io/zachary_price/pen/GRjQEmo)
 
 #### Github Stats
-<details>
-<summary><h4>Github Stats</h4></summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile views](https://gpvc.arturio.dev/zacharyprice)
-</details>
