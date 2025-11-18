@@ -25,7 +25,7 @@
 
 #### Links
 <p align="left">
-  <a href="https://github.com/zacharyprice">Github</a> | <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
+  <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
 </p>
 
 #### Food for thought
