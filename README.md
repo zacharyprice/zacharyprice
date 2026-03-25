@@ -1,90 +1,54 @@
-![Zachary Price Design & Development](https://user-images.githubusercontent.com/870971/194938740-1a6fa24f-10ab-4ad6-aa87-1c6edfe37cf7.png)
+# Hi, I'm Zachary Price 👋
 
-## Hello! 👋
-### My name is Zachary Price and I'm a user-centered Web Designer and Frontend Developer with a passion for Design Systems.
+Senior UX Engineer focused on frontend modernization, design systems, reusable component architecture, semantic HTML, accessibility, and product-minded implementation.
 
-#### Fun Facts
-- 🔭 I’m currently working on my own design system. 
-- 🌱 I’m currently learning Angular.
-- ⚡ Fun fact: I was a US Sailor for 10 years.
-- 📫 Reach out via [Email](mailto:hello@zachary-price.com)
+I bridge UX, frontend engineering, and product delivery to build maintainable, scalable digital experiences. My strongest work centers on Angular, TypeScript, SASS, design systems, frontend standards, and modernizing products without destabilizing delivery.
 
-#### Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40" />
-</p>
+## What I’m focused on
 
-#### Links
-<p align="left">
-  <a href="https://www.linkedin.com/in/zachary-price/">LinkedIn</a> | <a href="https://codepen.io/zachary_price">Codepen</a> | <a href="https://zachary-price.com">Website</a>
-</p>
+- Building modern frontend systems with Angular, TypeScript, and SASS
+- Creating and managing design systems across design and code
+- Improving semantic HTML, accessibility, maintainability, and frontend standards
+- Exploring product-platform workflows with Supabase and Cloudflare
+- Building Pixel Brew and the Anchor church leadership platform
+- Using AI-assisted workflows to accelerate research, prototyping, debugging, and documentation
 
-#### Food for thought
-> ✌Everything should be made as simple as possible, but not simpler.✌
-> Albert Einstein
+## Core strengths
 
-#### Favorite Codepens
-<table>
-    <tr>
-        <th>Pen (link)</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/ZwjgBp">CSS to Death 2 - SVG Has a Turn</a></td>
-        <td>This is the updated SVG version of my original <a href="https://codepen.io/zachary_price/pen/yNqPWJ">CSS to Death</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/ZEEZYOQ">Energy Meter Display</a></td>
-        <td>Just wanted to give off animated energy vibes</td>
-    </tr>
-    <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/obmwaQ">Neonderthal</a></td>
-        <td>I wanted to try my luck at creating a realistic neon sign look with CSS only</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/aqXNme">Custom font-swap for the @ symbol</a></td>
-        <td>Here I wanted to build a scalable way to change the font anytime the @ symbol is used on a page</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/oLqrzb">Responsively Responsive Responsiveness</a></td>
-        <td>I built this to try and have something be as responsive as possible while also in cool grayscale color scheme</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/vYxLRov">CSS Banner Animation</a></td>
-        <td>This was an actual request that made it to production</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/NLWjqx">React Multi-select Table</a></td>
-        <td>This was built to showcase a responsive menu without the need for Media Queries (and since I wanted to try React I threw that in too)</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/yEVNYQ">CSS-only Bigfoot logo</a></td>
-        <td>Just because I could (and... it's Bigfoot!</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/oVzxNm">HSLa Color Programming with SASS</a></td>
-        <td>Here I was playing around with the customizablity of HSLa and SASS and creating functions to generate all shades/tints/etc. based on a root color</td>
-    </tr>
-        <tr>
-        <td><a href="https://codepen.io/zachary_price/pen/VNBVye">Target Sibling Hover Effects</a></td>
-        <td>The clever thing here is how the siblings of the item being interacted with also get styles applied to them</td>
-</table>
+- Angular
+- TypeScript
+- SASS
+- HTML
+- CSS
+- Design Systems
+- Storybook
+- Figma
+- Accessibility
+- Semantic HTML
+- Nx
+- Supabase
+- Cloudflare
 
-- The following are just some of my favorite loading animations that I've created:
-    - [Pure CSS Loader](https://codepen.io/zachary_price/pen/QQOKJx)
-    - [CSS Spring Loader](https://codepen.io/zachary_price/pen/XWdyZqL)
-    - [CSS Loading Animation](https://codepen.io/zachary_price/pen/GRjQEmo)
+## Selected work
 
-#### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyprice)](https://github.com/anuraghazra/github-readme-stats)
+### Enterprise Application Modernization
+Led UX engineering and modernization efforts for a legacy enterprise application, improving maintainability, frontend architecture, delivery quality, and user experience.
 
-![Profile views](https://gpvc.arturio.dev/zacharyprice)
+### Acorn Design System
+Helped create and manage a shared design system from the ground up across design and code, including reusable component architecture, Storybook documentation, and stronger design-to-code alignment.
+
+### Anchor — Church Leadership Platform
+Designing and building a church leadership platform focused on people, ministries, prayer requests, analytics, and calm UX.
+
+## How I work
+
+I care deeply about building systems that are usable, scalable, and maintainable. I’m most energized by work that improves both user experience and developer experience through stronger standards, clearer architecture, and better long-term product thinking.
+
+I also use AI heavily as part of my engineering workflow to accelerate learning, prototyping, debugging, and documentation while still validating implementation and architecture decisions myself.
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/zachary-price/)
+- [Portfolio](https://zachary-price.com/)
+- [Pixel Brew](https://pixelbrewer.com/)
+- [CodePen](https://codepen.io/zacharyprice)
