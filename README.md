@@ -51,4 +51,3 @@ I also use AI heavily as part of my engineering workflow to accelerate learning,
 - [LinkedIn](https://www.linkedin.com/in/zachary-price/)
 - [Portfolio](https://zachary-price.com/)
 - [Pixel Brew](https://pixelbrewer.com/)
-- [CodePen](https://codepen.io/zacharyprice)
